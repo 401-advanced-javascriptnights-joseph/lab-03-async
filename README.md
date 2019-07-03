@@ -5,8 +5,8 @@
 ### Author: Joseph Hangarter
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascriptnights-joseph/lab-03-async/pull/2)
+* [travis][![Build Status](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-03-async.svg?branch=master)](https://travis-ci.com/401-advanced-javascriptnights-joseph/lab-03-async)
 
 ### Modules
 #### `reader.js` - code that needs to be refactored
