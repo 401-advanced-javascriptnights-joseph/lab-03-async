@@ -9,31 +9,18 @@
 * [travis](http://xyz.com)
 
 ### Modules
-#### `reader.js`
-#### `reader-broken.js`
-#### `reader.test.js`
-#### `fs.js`
-#### `edit-file.js`
+#### `reader.js` - code that needs to be refactored
+#### `reader-broken.js` - broken code
+#### `reader.test.js` - tests for reader.js
+#### `fs.js` - contains readFile function
+#### `edit-file.js` - read and write file for test.txt
 
 ##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+#### `readAll` - reads files 1, 2, & 3
 
 #### Running the app
 * `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* `node (file path)`
   
 #### Tests
 * `npm test`
-* What assertions were made?
-* What assertions need to be / should be made?
-
-#### UML
-Link to an image of the UML for your application and response to events

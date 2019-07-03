@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1562137485215" clover="3.2.0">
+  <project timestamp="1562137485215" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5" elements="27" coveredelements="27" complexity="0" loc="18" ncloc="18" packages="1" files="1" classes="1">
+      <file name="reader.js" path="/mnt/c/Users/mackoy/codefellows/401n13/labs/lab-03-async/lib/reader.js">
+        <metrics statements="18" coveredstatements="18" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="24" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="38" count="4" type="stmt"/>
+        <line num="39" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
