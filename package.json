@@ -1,0 +1,32 @@
+{
+  "name": "file-reader",
+  "version": "1.0.0",
+  "description": "## ASYNC",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "lint": "eslint **/.js",
+    "test": "jest --coverage --verbose",
+    "test-watch": "jest --watchAll --coverage --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.6.1",
+    "jest": "^23.6.0"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascriptnights-joseph/lab-03-async.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascriptnights-joseph/lab-03-async/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascriptnights-joseph/lab-03-async#readme"
+}
